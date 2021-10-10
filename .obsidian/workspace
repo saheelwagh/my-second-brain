@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "739462fe095f6e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c9bcad12ae8d97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "productivity for creators.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d94de828503650d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f37eaea361a1414a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0863da1a5741d062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24fbe71899db3335",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.00680351257324,
+    "collapsed": true
+  },
+  "right": {
+    "id": "91f3e49f80733989",
+    "type": "split",
+    "children": [
+      {
+        "id": "85de0ad496efca03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cbc5876d1660ff4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "productivity for creators.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f9c9bcad12ae8d97",
+  "lastOpenFiles": [
+    "productivity for creators.md",
+    "event time scheduling.md",
+    "Untitled.md",
+    "nothing fails like success.md",
+    "Think Like a Rocket Scientist Workbook.md",
+    "nothing succeds like failure.md",
+    "focus on the inputs not the outputs.md",
+    "test as you fly.md",
+    "Moonshot thinking.md",
+    "Back To the future.md"
+  ]
+}

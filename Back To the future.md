@@ -1,0 +1,5 @@
+- visualise an outcome
+- work backwards to form a (rough plan)
+- [[visualization]]
+- this forces separation of fact from fiction
+- [[monkey first approach]]

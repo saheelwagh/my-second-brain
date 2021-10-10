@@ -1,0 +1,4 @@
+- redundancies are backup systems
+- avoids a single point of failure
+- follows [[law of diminishing returns]]
+- 

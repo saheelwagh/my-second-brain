@@ -1,0 +1,4 @@
+- 10x improvs require you let go of status quo
+- maintain a balance of poftfolio of moonshots
+	- one big success will compensate for ohter failures
+- [[Back To the future]]

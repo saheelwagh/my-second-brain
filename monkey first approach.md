@@ -1,0 +1,3 @@
+- do the hardest part first
+- avoids sunk cost fallacy
+- 
