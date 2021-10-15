@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "productivity for creators.md",
+            "file": "Projects/mem transfer.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.00680351257324,
-    "collapsed": true
+    "width": 238.00680351257324
   },
   "right": {
     "id": "91f3e49f80733989",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "productivity for creators.md",
+                "file": "Projects/mem transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "f9c9bcad12ae8d97",
   "lastOpenFiles": [
+    "Projects/mem transfer.md",
+    "Untitled.md",
     "productivity for creators.md",
     "event time scheduling.md",
-    "Untitled.md",
     "nothing fails like success.md",
     "Think Like a Rocket Scientist Workbook.md",
     "nothing succeds like failure.md",
     "focus on the inputs not the outputs.md",
     "test as you fly.md",
-    "Moonshot thinking.md",
-    "Back To the future.md"
+    "Moonshot thinking.md"
   ]
 }
