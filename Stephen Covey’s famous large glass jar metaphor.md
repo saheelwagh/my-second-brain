@@ -1,0 +1,1 @@
+When filling the jar, always start with the big rocks, then add the smaller pebbles, grains, sand and finally water, in that order. Do it in a different sequence, and the jar will be half-empty.

@@ -1,0 +1,3 @@
+(Walter White from _Breaking Bad_) described his early acting days, and how stressed/anxious he was at auditions. He was always focused on “getting” the role. But his fear and anxiety always shone through his performance, and after many years, he was still a below-average actor.  
+Finally, he decided to focus on the process — “giving” a performance, “doing” a job. He stopped worrying about failing, or getting the role, or what the casting directors thought; he just focused on giving a great performance.  
+  

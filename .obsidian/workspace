@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/mem transfer.md",
+            "file": "Religion and concentration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/mem transfer.md",
+                "file": "Religion and concentration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f9c9bcad12ae8d97",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "My experience with zettelkasten.md",
+    "strategic thinker.md",
     "Projects/mem transfer.md",
-    "Untitled.md",
-    "productivity for creators.md",
-    "event time scheduling.md",
-    "nothing fails like success.md",
-    "Think Like a Rocket Scientist Workbook.md",
-    "nothing succeds like failure.md",
-    "focus on the inputs not the outputs.md",
-    "test as you fly.md",
-    "Moonshot thinking.md"
+    "Bryan Cranston.md",
+    "roadmap marketing.md",
+    "Stephen Covey’s famous large glass jar metaphor.md",
+    "Problems faced by beginner writers.md",
+    "Freewriting.md",
+    "How writing affects your brain.md"
   ]
 }
