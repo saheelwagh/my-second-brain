@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/mem transfer.md",
+            "file": "Principles of a great productivity system.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/mem transfer.md",
+                "file": "Principles of a great productivity system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f9c9bcad12ae8d97",
   "lastOpenFiles": [
+    "Principles of a great productivity system.md",
+    "Story Hook opener.md",
+    "how to write about yourself.md",
+    "copywork writing.md",
     "Projects/mem transfer.md",
-    "Untitled.md",
     "productivity for creators.md",
     "event time scheduling.md",
     "nothing fails like success.md",
     "Think Like a Rocket Scientist Workbook.md",
-    "nothing succeds like failure.md",
-    "focus on the inputs not the outputs.md",
-    "test as you fly.md",
-    "Moonshot thinking.md"
+    "nothing succeds like failure.md"
   ]
 }
