@@ -9,11 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Principles of a great productivity system.md",
-=======
-            "file": "Religion and concentration.md",
->>>>>>> e35046191ba9aa8cb538a84f562366dbbb3b80ad
+            "file": "No zero days.md",
             "mode": "source"
           }
         }
@@ -72,11 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Principles of a great productivity system.md",
-=======
-                "file": "Religion and concentration.md",
->>>>>>> e35046191ba9aa8cb538a84f562366dbbb3b80ad
+                "file": "No zero days.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +88,7 @@
   },
   "active": "f9c9bcad12ae8d97",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "No zero days.md",
     "Principles of a great productivity system.md",
     "Story Hook opener.md",
     "how to write about yourself.md",
@@ -105,19 +97,6 @@
     "productivity for creators.md",
     "event time scheduling.md",
     "nothing fails like success.md",
-    "Think Like a Rocket Scientist Workbook.md",
-    "nothing succeds like failure.md"
-=======
-    "Untitled 1.md",
-    "My experience with zettelkasten.md",
-    "strategic thinker.md",
-    "Projects/mem transfer.md",
-    "Bryan Cranston.md",
-    "roadmap marketing.md",
-    "Stephen Covey’s famous large glass jar metaphor.md",
-    "Problems faced by beginner writers.md",
-    "Freewriting.md",
-    "How writing affects your brain.md"
->>>>>>> e35046191ba9aa8cb538a84f562366dbbb3b80ad
+    "Think Like a Rocket Scientist Workbook.md"
   ]
 }
