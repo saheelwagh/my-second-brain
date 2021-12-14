@@ -4,3 +4,5 @@
 [[How to take smart notes]]
 
 [[That Offline Day In a coworking cafe]]
+
+[[Issue 1 24 Nov]]

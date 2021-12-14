@@ -1,0 +1,3 @@
+- Start by identifying the biggest job of the day—that goes in the number one slot. From there, pick three smaller, but still important tasks to fill out the middle of your list. Finish it off with five small items you’ll be able to take care of quickly.
+- COO and co-founder of [The Muse](https://www.themuse.com/advice/why-you-never-finish-your-todo-lists-at-work-and-how-to-change-that) Alex Cavoulacos is a notable fan of this method.
+	- “Planning ahead like this also means you'll be able to have more informed conversations with your manager when he or she drops something new on you that needs to be done right away—as well as the tools to re-prioritize your other work.”

@@ -15,4 +15,6 @@ open. It’s better to be uncomfortably uncertain than comfortably wrong.
 
 - contain uncertainty
 - write down what you know and don't know. 	Then you'll realise that fear of unkonwn is much greater than the unknown itself
-- 
+
+
+[[Identifying Your Key Audience]]

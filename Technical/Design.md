@@ -1,0 +1,1 @@
+[[Additive design]] is the first solution that comes gto people's minds even though [[subtractive design]] may make more sense in a lot of cases.

@@ -1,0 +1,8 @@
+- toughest : finding topic
+	- emails
+	- comments
+	- make ask questions
+- share what learning now
+- ideas from books and sources
+- then make them your own
+- 
