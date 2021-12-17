@@ -1,0 +1,32 @@
+- ![61bba26a555934e6ee95d4d4_the-22-laws-of-digital-writing.pdf](../assets/61bba26a555934e6ee95d4d4_the-22-laws-of-digital-writing_1639722277783_0.pdf)
+- [[digital writer]]
+- This book is a compressed version of [[Ship 30 for 30]] curriculum
+- Analog vs digital writer
+	- [[Analog Writer]]
+	- [[digital writer]]
+	- The authors believe the best time to start writing is NOW.
+		- provided you are a digital writer.
+## Laws of digital writing
+	- [[Don't Start a blog]]
+	- [[Volume Wins]]
+	- [[Clear, not clever]]
+	- [[Clickbait is when you fail to keep your promise]]
+	- [[Find a structure that works and exploit it]]
+	- [[Skimmable = read]]
+	- [[Your subheads should tell a story]]
+	- [[Practice in public]]
+	- [[Use engagement data]]
+	- [[You are not the main character, the reader is]]
+	- [[Size of the question dictates the size of the]]
+	- [[Specificity is the secret]]
+	- [[Don't Compete In Someone Else's category]]
+	- [[Imperfectly published is better than perfect but..]]
+	- [[Don't focus on Individual pieces. Build Your..]]
+	- [[Repeat your core narratives]]
+	- [[The more you write, the more you write]]
+	- [[Word count is a poor measure of value]]
+	- [[Writing for everyone means writing for no one]]
+	- [[The golden intersection is answering the reader's]]
+	- [[Optimize for speed]]
+	- [[Time spent reading should never exceed the time spent ..]]
+	-

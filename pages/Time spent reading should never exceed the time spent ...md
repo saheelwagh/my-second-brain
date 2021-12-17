@@ -1,0 +1,4 @@
+- Reading doesn’t make you a better writer.Only writing makes you a better writer.This is polarizing advice, and yet it’s always theaspiring writers who seem to disagree.
+- TODO Make this a law
+- If you want to be a writer, does reading help?Sure. Just like watching reruns of games helped Michael Jordanbecome a better basketball player.But watching reruns of games isn’t how Michael Jordanbecame Michael Jordan.Reading should be an addition to your writing practice,just like stretching is to physical exercise.   But under nocircumstances should reading be a replacement for your dailywriting habit.Which is why your mantra should be this:“Time spent reading will never exceed time spentwriting.”
+-
