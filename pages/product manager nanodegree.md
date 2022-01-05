@@ -1,0 +1,3 @@
+- ![Product+Manager+Nanodegree+Program+Syllabus.pdf](../assets/Product+Manager+Nanodegree+Program+Syllabus_1641366954468_0.pdf)
+- 40 hours/week => 1 month
+-

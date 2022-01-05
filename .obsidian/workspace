@@ -4,12 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c9bcad12ae8d97",
+        "id": "63169f562f87050e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "No zero days.md",
+=======
+            "file": "projects vs habits.md",
+>>>>>>> 5eec3ef09e5c18215964e727f3798040f8e5cfae
             "mode": "source"
           }
         }
@@ -40,7 +44,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,14 +72,18 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "No zero days.md",
+=======
+                "file": "projects vs habits.md",
+>>>>>>> 5eec3ef09e5c18215964e727f3798040f8e5cfae
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -86,8 +94,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9c9bcad12ae8d97",
+  "active": "63169f562f87050e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "No zero days.md",
     "Principles of a great productivity system.md",
     "Story Hook opener.md",
@@ -98,5 +107,17 @@
     "event time scheduling.md",
     "nothing fails like success.md",
     "Think Like a Rocket Scientist Workbook.md"
+=======
+    "Untitled 2.md",
+    "When confused clarify intentions.md",
+    "mem transfer nov 2.md",
+    "Steve Pavlina.md",
+    "Timing Your Passion.md",
+    "Scott H Young.md",
+    "Don't over commit.md",
+    "Project Driven Life.md",
+    "Scott Young's Advice on writing.md",
+    "High Value Skills.md"
+>>>>>>> 5eec3ef09e5c18215964e727f3798040f8e5cfae
   ]
 }
