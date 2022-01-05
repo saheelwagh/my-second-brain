@@ -1,0 +1,1 @@
+Many painters are scared of the blank canvas. But the blank canvas is scared of the painter who dares - [[Vincent Van Gogh]]

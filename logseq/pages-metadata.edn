@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{:block/name "../assets/dmnd+syllabus+(2)_1641368772397_0.pdf",
   :block/created-at 1641381153082,
   :block/updated-at 1641381153082}
@@ -407,3 +408,1023 @@
  {:block/name "zettelkasten apps",
   :block/created-at 1641381153082, 
   :block/updated-at 1641381153082}]
+=======
+[{:block/name " coffee loving people ",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name " my front end engineer skills",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name " para ",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name " s.m.a.r.t",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name " substantial projects ",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name " the compound effect ",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "1",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "1-3-5 list",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "22 nov 2021",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "3 pronged writing system",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "30 october 2021",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "365  days with self discipline",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name "80-15-5 rule",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "80-20 principle",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "a",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "a better planner app",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "activation energy",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "additive design",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "advertise your failures",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "alan lakein",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "alec mackenzie",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "alexander hamilton",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "alfred",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "algorithm for writing",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "ali abdaal",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "anchor moment",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "anthony goldbloom",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "app ideas master list",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "appliku",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "articles draft",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "atomic essay",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "atomic habits",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "attention space",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "b",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "back to the future",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "batch",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "be top heavy productive",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "behavioral design",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "best writing advice scott adams",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "betting on your strengths",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "blog",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "blog  ideas master list",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "blue bottle",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "body",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "brian tracey",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "bryan cranston",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "bulldoze your calendar",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "bullet journal",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "business",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "c",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "card",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "chatter the voice in our head and how to harness it",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "clock time scheduling",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "coffee loving people",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "components of writing",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "confirmation bias",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "content piece",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "content piece ",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "contents",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "copywriting",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "create redundancies",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "creating articles using obsidian",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "daily highlight",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "dealing with uncertainty",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "dec 10th, 2021",
+  :block/created-at 1639123029585,
+  :block/updated-at 1639125303550}
+ {:block/name "dec 11th, 2021",
+  :block/created-at 1639210556408,
+  :block/updated-at 1639246970684}
+ {:block/name "dec 12th, 2021",
+  :block/created-at 1639281389133,
+  :block/updated-at 1639377152681}
+ {:block/name "dec 13th, 2021",
+  :block/created-at 1639378257631,
+  :block/updated-at 1639378291567}
+ {:block/name "dec 14th, 2021",
+  :block/created-at 1639473845104,
+  :block/updated-at 1639474715450}
+ {:block/name "dec 7th, 2021",
+  :block/created-at 1638835200000,
+  :block/updated-at 1638835200000}
+ {:block/name "dec 8th, 2021",
+  :block/created-at 1638921600000,
+  :block/updated-at 1638921600000}
+ {:block/name "dec 9th, 2021",
+  :block/created-at 1639008000000,
+  :block/updated-at 1639008000000}
+ {:block/name "decision fatigue",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "deep work",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "deep work startegy",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "derek sivers",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "design",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "design sprint",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name
+  "developing a new habit ? you may need this lesson from bridge construction",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "digital writer",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "documents and license",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "doing",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "don't over commit",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "don_t multitask",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "done",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "dreyfus expert scale",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "dribbl account",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "dunning krager effect",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "eat that frog",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "effects of writing on brain",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "email marketing",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "essentialism",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "event time scheduling",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "expert",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "famous quotes",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "farnam street",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "favorites",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "feynman technique",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "finances and investments",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "first 20 hours",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "first pricniple thinking",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "fitness factory",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "five stars communication",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "fix30for30",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "fleeting notes",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "focus",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "focus on the inputs not the outputs",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name "focused attention",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "four thousand weeks",
+  :block/created-at 1638891707189,
+  :block/updated-at 1639026972779}
+ {:block/name "freelance skills",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "friends and social life",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "galileo",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "getting things done",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "goal setting like a plumber",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "goals",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "growth mindset",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "gut feeling",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "habits building tracker",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "habits vs projects",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "health",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "high value skills",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "how to fail at almost anything and still win big",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "how to take smart notes",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "how writing affects your brain",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "howard thruman",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "human brain",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "idea processing",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "idea validation",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "identifying your key audience",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "if-then list",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "imposter syndrome",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "in-progress",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "inbox",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "inbox mac",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "index",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "indistractable",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "industries that are paper based even in digital age",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "issue 1 24 nov",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "jake knapp",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "jim rohn",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "john zeratsky",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "kaggle",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "kakkorrhaphiophobia",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "kingsford charcoal",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "landing page",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "later",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "law of diminishing returns",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "lead generation",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "learn from successful people",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "leipig's law",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "leipig's law in freelancing",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "lessons after 200 blog posts",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "lessons learnt",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "lin manueel miranda",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "literature notes",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "locus of control",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "make failues interesting using curiosity",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "make time",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "make time 2",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "make time for writing",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "make time tactics",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "maker taks",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "malcom mclean container",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "manager tasks",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "marbles",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "marbles ",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "marketing",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "master figma",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "mathemedical prediction model",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "median",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "mem transfer nov 2",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "mental models",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "mere exposure effect",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "mindset mentor notes",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "monkey first appraoch",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "monkey first approach",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "moonshot thinking",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "morning ritual",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "mumbai travel site",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my angry list",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my archives",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my areas of responsibility",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "my backend skills",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my content plan",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my current deadlines",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "my design skills",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "my discipline",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "my experience with zettelkasten",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "my goals collection",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my marketing skills",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "my newsletter",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my niche",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "my proficiency in your craft",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "my projects",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my projects 2",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "my resources",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "my udemy courses",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "my writing",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "navalmanack",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "necessity for project list",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "new house",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "newsletter format",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "next actions",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "non tech courses",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "noriko arai ",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "nothing fails like success",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name "nothing succeds like failure",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "now",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "obsidian hot keys",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "one page marketing plan ",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "online republishing framework",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "optimize cofee",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "outlining an article",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "outlook of unuscessful people to success",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "para",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "paretto's time principle",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210628080706.png",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "pasted image 20210628085655.png",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210628093106.png",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210703151104.png",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210703151431.png",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210703151436.png",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210703151619.png",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210703151731.png",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "pasted image 20210703152815.png",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "pasted image 20210703153249.png",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pasted image 20210704162614.png",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "permanent notes",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "peter drucker",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "peter hollins",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "philosophy",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "phoropter",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "physcial notes",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "planner apps will rise and todo apps will fall",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "pocket full of do",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "pomodoro",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name "portfolio site",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "print",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "problem cruncing mode",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "problems faced by beginner writers",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "productivity",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "productivity for creators",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "productivity lessons by working on google cal",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "project driven life",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "project management apps",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "project management skills",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "project time",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "projects vs habits",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "promote your writing",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "psychological safety",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "psychologist",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "reacharge and fun",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "realistic to-do lists",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "reflection",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "relationships",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "religion and concentration",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "remnote for coders mini course",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "roadmap marketing",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "rob dial",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "ryan brown",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "s.m.a.r.t goals",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name "sales",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "scott h young",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "scott young's advice on writing",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "selftaguht design",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "senior developer mindset",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "seo",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "ship 30 for 30",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "ship 30 for 30 lessons",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "smart notes",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "social media strategies",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "software estimation",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "someday",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "soviet",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "sprint",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "sql resources",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "stage one -  launch  (think like a rocket scientist)",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "stages of productivity",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "stephen covey",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "stephen covey’s famous large glass jar metaphor",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "steps to writing landing page copy",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "steve pavlina",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "stimulus and response",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "strategic thinker",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "strategy",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "stumptown",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "subtractive design",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "successful writing strategies",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "survivorshiip bias",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "switching from notion",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "tactics",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "taking coding notes in remnote",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "task",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "tech career",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "test as you fly",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "that offline day in a coworking cafe",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "the first hour rule",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "the futur courses",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "the gap and the gain",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "the healthcare industry",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "think like a rocket sceintiest",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "think like a rocket scientist",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "think like a rocket scientist 2",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name "think like a rocket scientist workbook",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "thoughts on religious functions as an atheist",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "tiago forte",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "tim ferris",
+  :block/created-at 1639475194532,
+  :block/updated-at 1639475194532}
+ {:block/name "time blocking",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "timing your passion",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "tiny habits",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "to read",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "todai robot",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "today",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "todo",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "tomorrow",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "tool by tool approach",
+  :block/created-at 1639284138968,
+  :block/updated-at 1639284157669}
+ {:block/name "tools of the titans",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "tql project",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "types of focus",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "ultralearning",
+  :block/created-at 1639123327902,
+  :block/updated-at 1639123327971}
+ {:block/name "vault",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "visualisation",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "visualization",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "wait",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "waiting",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "webflow",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "when confused clarify intentions",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "when talking to ourselves backfires",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "why we talk to ourselves",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "working of memory",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "write it down",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "write your landing page like a grenade",
+  :block/created-at 1639475194533,
+  :block/updated-at 1639475194533}
+ {:block/name "writing",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "writing is the medium of all work",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "writing resistance",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "writing tips",
+  :block/created-at 1639475194537,
+  :block/updated-at 1639475194537}
+ {:block/name "zeigarnik effect",
+  :block/created-at 1639475194535,
+  :block/updated-at 1639475194535}
+ {:block/name "zettelkasten",
+  :block/created-at 1639475194536,
+  :block/updated-at 1639475194536}
+ {:block/name "zettelkasten apps",
+  :block/created-at 1639475194536, 
+  :block/updated-at 1639475194536}]
+>>>>>>> 650538efb2b216ee3cba1f3837833b7c40ab835b

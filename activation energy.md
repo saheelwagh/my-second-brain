@@ -1,0 +1,2 @@
+- [ ] Copy content from obsidian
+- [ ] try to link to a real world example

@@ -4,16 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "63169f562f87050e",
+        "id": "f1d9f0fc1a9edbdd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "No zero days.md",
-=======
-            "file": "projects vs habits.md",
->>>>>>> 5eec3ef09e5c18215964e727f3798040f8e5cfae
+            "file": "indistractable.md",
             "mode": "source"
           }
         }
@@ -43,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "indis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238.00680351257324
+    "width": 238.00680351257324,
+    "collapsed": true
   },
   "right": {
     "id": "91f3e49f80733989",
@@ -72,11 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "No zero days.md",
-=======
-                "file": "projects vs habits.md",
->>>>>>> 5eec3ef09e5c18215964e727f3798040f8e5cfae
+                "file": "indistractable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,30 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63169f562f87050e",
+  "active": "f1d9f0fc1a9edbdd",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "No zero days.md",
-    "Principles of a great productivity system.md",
-    "Story Hook opener.md",
-    "how to write about yourself.md",
-    "copywork writing.md",
-    "Projects/mem transfer.md",
-    "productivity for creators.md",
-    "event time scheduling.md",
-    "nothing fails like success.md",
-    "Think Like a Rocket Scientist Workbook.md"
-=======
-    "Untitled 2.md",
-    "When confused clarify intentions.md",
-    "mem transfer nov 2.md",
-    "Steve Pavlina.md",
-    "Timing Your Passion.md",
-    "Scott H Young.md",
-    "Don't over commit.md",
-    "Project Driven Life.md",
-    "Scott Young's Advice on writing.md",
-    "High Value Skills.md"
->>>>>>> 5eec3ef09e5c18215964e727f3798040f8e5cfae
+    "indistractable.md",
+    "Issue 1 24 Nov.md",
+    "Be Top Heavy Productive.md",
+    "Senior Developer Mindset.md",
+    "Ship 30 for 30 Lessons.md",
+    "Ship 30 for 30.md",
+    "80-15-5 Rule.md",
+    "22 Nov 2021.md",
+    "Productivity Lessons by working on google cal.md",
+    "My Newsletter.md"
   ]
 }

@@ -1,0 +1,3 @@
+- check status of all
+- connect tasks to projects
+- 

@@ -1,0 +1,2 @@
+- amalgamtion of experience
+- sedimentation of practice through feedback
