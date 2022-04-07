@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d9f0fc1a9edbdd",
+        "id": "b2c2c2e6e7ec45ef",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "indistractable.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indistractable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +84,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1d9f0fc1a9edbdd",
+  "active": "b2c2c2e6e7ec45ef",
   "lastOpenFiles": [
     "indistractable.md",
     "Issue 1 24 Nov.md",
